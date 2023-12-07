@@ -9,10 +9,22 @@
 
 ## Tutorials by [@Midudev][midudev]
 
-<a href="https://www.youtube.com/watch?v=RB5tR_nqUEw"><h3>🚀 Learn Astro 3 from Scratch: Course for Beginners + Astro Application.</h3><img src="https://img.youtube.com/vi/RB5tR_nqUEw/0.jpg" width="250"/>
+<a href="https://youtu.be/RB5tR_nqUEw" style="display: flex;">
+  <span>🚀 Learn Astro 3 from Scratch: Course for Beginners + Astro Application.</span>
+  <br>
+  <img
+      src="https://img.youtube.com/vi/RB5tR_nqUEw/0.jpg"
+      width="250"
+  />
 </a>
-
-<a href="https://www.youtube.com/watch?v=WRc8lz-bp78"><h3>🚀 Clon de Spotify DESDE CERO con Astro 3 React JS Svelte y TailwindCSS</h3><img src="https://img.youtube.com/vi/WRc8lz-bp78/0.jpg" width="250"/>
+<br>
+<a href="https://youtu.be/WRc8lz-bp78">
+  <span>🚀 Clon de Spotify DESDE CERO con Astro 3 React JS Svelte y TailwindCSS.</span>
+  <br>
+  <img
+      src="https://img.youtube.com/vi/WRc8lz-bp78/0.jpg"
+      width="250"
+  />
 </a>
 
 [midudev]: https://github.com/midudev
